@@ -1,3 +1,3 @@
 # lab2-CS326
 
-This is my Reademe.md file.
+This is my Readme.md file.
